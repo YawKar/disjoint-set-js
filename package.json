@@ -1,0 +1,15 @@
+{
+  "name": "disjoint-set-js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node manualTests.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YawKar/disjoint-set-js.git"
+  },
+  "author": "Yawkar",
+  "license": "WTFPL"
+}
